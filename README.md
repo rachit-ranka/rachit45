@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rachit45
-- 👀 I’m interested in Web 3.0 and web development 
+- 👋 Hi, I’m Rachit
+- 👀 I’m interested in Web 3.0 and Web Development 
 - 🌱 I’m currently learning about Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? At twitter @rachit_45 
